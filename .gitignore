@@ -1,0 +1,17 @@
+
+config.json
+downloads/
+
+screenshots/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+ImageTester.jar
+
+Lib/
+Scripts/
+pyvenv.cfg
+
+.idea/

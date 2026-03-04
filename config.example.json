@@ -1,0 +1,7 @@
+{
+  "browser": "Chrome",
+  "applitools_api_key": "YOUR_APPLITOOLS_API_KEY_HERE",
+  "run_visual_test": true,
+  "image_tester_jar": "ImageTester.jar",
+  "download_dir": "downloads"
+}
